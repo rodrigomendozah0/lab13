@@ -226,7 +226,7 @@ namespace lab13
 
             if (contador == 0)
             {
-                Console.WriteLine("No extisten notas");
+                Console.WriteLine("No hay datos registrados");
             }
 
             for (int i = 0; i < contador; i++)
